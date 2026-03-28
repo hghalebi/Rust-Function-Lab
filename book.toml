@@ -1,6 +1,6 @@
 [book]
 title = "Rust Functions Learning Path"
-authors = ["Rust Functions Learning"]
+authors = ["Hamze GHALEBI"]
 description = "A staged, tested curriculum from first principles to production-style Rust function design."
 src = "book-src"
 
