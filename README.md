@@ -1,4 +1,4 @@
-# Rust Functions — Practical Learning Path (Inspired by Andrew Ng’s style)
+# Rust Functions — Practical Learning Path
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
