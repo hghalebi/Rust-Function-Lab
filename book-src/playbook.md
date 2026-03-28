@@ -23,7 +23,7 @@ That sequence is repeated across all lesson modules.
 - Prefer immutable values where possible.
 - Capture state only when behavior truly needs it.
 
-## Suggested micro-rituals (Andrew Ng-style pacing)
+## Suggested micro-rituals
 
 - 1 idea, 1 exercise, 1 test.
 - 3 minutes of prediction: “What should this output?”

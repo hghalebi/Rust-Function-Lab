@@ -1,5 +1,5 @@
 //! Option, Result, and ergonomic fallible composition.
-//! 
+//!
 //! The design rule is to make failure explicit in the return type while keeping
 //! successful flow linear and readable.
 

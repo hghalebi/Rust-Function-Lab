@@ -1,5 +1,5 @@
 //! Memoization patterns: single-threaded and shared-state variants.
-//! 
+//!
 //! Memoization is about changing computation shape: from recompute-on-demand to
 //! cache-aware behavior with ownership-bound state.
 

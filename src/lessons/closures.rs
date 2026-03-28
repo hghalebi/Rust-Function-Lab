@@ -1,5 +1,5 @@
 //! Closure behavior, traits, and stateful callables.
-//! 
+//!
 //! Closures are where behavior becomes data: every closure carries both code and the
 //! context needed to execute it.
 

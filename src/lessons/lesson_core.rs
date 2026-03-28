@@ -1,5 +1,5 @@
 //! Basic function signatures, methods, and function-like composition.
-//! 
+//!
 //! This file maps the first half of the learning ladder: small, pure-ish functions
 //! that do exactly one thing and communicate expectations through signatures.
 

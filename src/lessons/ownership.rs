@@ -1,5 +1,5 @@
 //! Borrowing, ownership, and methods.
-//! 
+//!
 //! Ownership questions are architectural questions here: where do values live, who
 //! is allowed to mutate them, and when can they be reused by later steps.
 

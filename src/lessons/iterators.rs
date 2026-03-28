@@ -1,5 +1,5 @@
 //! Iterator fundamentals and functional-style combinators.
-//! 
+//!
 //! Each method builds a tiny transformation stage. The important pattern is that
 //! none of these stages execute immediately without a terminal consumer.
 

@@ -1,5 +1,5 @@
 //! End-to-end pipeline combining parsing, validation, transformation, and memoization.
-//! 
+//!
 //! This module demonstrates production shape: small tested units connected with an
 //! explicit error path and a shared compute strategy.
 
