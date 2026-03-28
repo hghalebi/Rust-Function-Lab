@@ -1,0 +1,14 @@
+[package]
+name = "rust-functions-learning"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "An executable, test-driven Rust curriculum for learning functions from basics to production-style pipelines."
+readme = "README.md"
+repository = "https://github.com/hghalebi/rust-functions-learning"
+keywords = ["rust", "education", "functions", "tutorial", "mdbook"]
+categories = ["education"]
+
+[dependencies]
+
+[dev-dependencies]

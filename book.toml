@@ -1,0 +1,17 @@
+[book]
+title = "Rust Functions Learning Path"
+authors = ["Rust Functions Learning"]
+description = "A staged, tested curriculum from first principles to production-style Rust function design."
+src = "book-src"
+
+[build]
+create-missing = true
+build-dir = "book"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/example/rust-functions-learning"
+
+[output.html.search]
+enable = true
