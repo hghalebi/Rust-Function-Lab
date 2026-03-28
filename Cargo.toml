@@ -5,7 +5,7 @@ edition = "2024"
 license = "MIT"
 description = "An executable, test-driven Rust curriculum for learning functions from basics to production-style pipelines."
 readme = "README.md"
-repository = "https://github.com/hghalebi/rust-functions-learning"
+repository = "https://github.com/hghalebi/Rust-Function-Lab"
 keywords = ["rust", "education", "functions", "tutorial", "mdbook"]
 categories = ["education"]
 

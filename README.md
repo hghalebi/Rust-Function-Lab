@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-[![Build Status](https://img.shields.io/badge/CI-Active-brightgreen.svg)](https://github.com/hghalebi/rust-functions-learning/actions)
+[![Build Status](https://img.shields.io/badge/CI-Active-brightgreen.svg)](https://github.com/hghalebi/Rust-Function-Lab/actions)
 
 Welcome to a hands-on Rust course where every concept is connected to a concrete problem.
 

@@ -11,7 +11,7 @@ build-dir = "book"
 [output.html]
 default-theme = "ayu"
 preferred-dark-theme = "navy"
-git-repository-url = "https://github.com/hghalebi/rust-functions-learning"
+git-repository-url = "https://github.com/hghalebi/Rust-Function-Lab"
 
 [output.html.search]
 enable = true
